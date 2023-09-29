@@ -16,6 +16,10 @@ html {
     margin-right: 123px;
 }
 
+input {
+    background-color: white;
+}
+
 h1 {
     text-align: center;
 }
